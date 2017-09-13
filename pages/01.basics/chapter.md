@@ -7,6 +7,6 @@ child_type: docs
 
 ### Chapter 1
 
-# WildGums
+# WildGums Hello
 
 Discover the **basic** principles
